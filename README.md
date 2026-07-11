@@ -113,7 +113,7 @@ Cloud
 # 🖥 Devices Used
 
 - Cisco 2911 Routers
-- Cisco 3560 Multilayer Switch
+- Cisco 3650 Multilayer Switch
 - Cisco 2960 Switches
 - PCs
 - Servers
